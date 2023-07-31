@@ -8,4 +8,4 @@ I'm Niccolò Laurora, an aspiring theoretical physicist.
 
 Contact: niccolo.laurora@gmail.com
 
-Personal page [here](https://niccololaurora.github.io)
+Personal website (work in progress) [here](https://niccololaurora.github.io)

@@ -1,10 +1,10 @@
 ## [Hi everybody!](https://niccololaurora.github.io)
 
-I'm Niccolò Laurora, an aspiring theoretical physicist.
+I'm Niccolò Laurora, PhD student in Quantum Information Theory.
 
-- 🎓 BSc in Physics @ University of Milan
-- 📚 MSc in Theoretical Particle Physics and Quantum Computing @ University of Milan
-- 👩🏻‍💻 Interested in AI
+- BSc in Physics @ University of Milan
+- MSc in Theoretical Physics @ University of Milan
+- PhD in Theoretical Physics @ University of Milan
 
 Contact: niccolo.laurora@gmail.com
 
